@@ -1,0 +1,12 @@
+D:\TrackerAPI\TrackerData\bin\Debug\net7.0\TrackerData.deps.json
+D:\TrackerAPI\TrackerData\bin\Debug\net7.0\TrackerData.dll
+D:\TrackerAPI\TrackerData\bin\Debug\net7.0\TrackerData.pdb
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.csproj.AssemblyReference.cache
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.AssemblyInfoInputs.cache
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.AssemblyInfo.cs
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.csproj.CoreCompileInputs.cache
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.dll
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\refint\TrackerData.dll
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\TrackerData.pdb
+D:\TrackerAPI\TrackerData\obj\Debug\net7.0\ref\TrackerData.dll
